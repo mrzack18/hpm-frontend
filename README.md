@@ -150,9 +150,9 @@ npx svelte-check
 
 Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detailnya.
 
-## 👥 Penyusun
+## 👥 Author
 
-- Tim HIMATIF Project Management
+- Zaki Muhamad
 
 ## 🐛 Dukungan
 
